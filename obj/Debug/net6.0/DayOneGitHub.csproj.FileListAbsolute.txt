@@ -1,0 +1,15 @@
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\bin\Debug\net6.0\DayOneGitHub.exe
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\bin\Debug\net6.0\DayOneGitHub.deps.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\bin\Debug\net6.0\DayOneGitHub.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\bin\Debug\net6.0\DayOneGitHub.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\bin\Debug\net6.0\DayOneGitHub.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\DayOneGitHub.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\DayOneGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\DayOneGitHub.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\DayOneGitHub.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\DayOneGitHub.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\DayOneGitHub.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\refint\DayOneGitHub.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\DayOneGitHub.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\DayOneGitHub.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\DayOneGitHub\obj\Debug\net6.0\ref\DayOneGitHub.dll
